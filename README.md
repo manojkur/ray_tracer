@@ -1,2 +1,2 @@
-# ray_tracer
+# Ray Tracer
 A simple ray tracer which runs on both the CPU and a NVidia GPU and compares performance
